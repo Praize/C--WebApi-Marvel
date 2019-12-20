@@ -1,0 +1,6 @@
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\bin\Release\Marvel.models.dll
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\bin\Release\Marvel.models.pdb
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\obj\Release\Marvel.models.csprojAssemblyReference.cache
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\obj\Release\Marvel.models.csproj.CoreCompileInputs.cache
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\obj\Release\Marvel.models.dll
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\obj\Release\Marvel.models.pdb

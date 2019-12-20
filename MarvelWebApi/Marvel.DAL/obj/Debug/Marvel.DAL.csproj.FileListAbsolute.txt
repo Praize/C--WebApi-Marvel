@@ -1,0 +1,9 @@
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.DAL\bin\Debug\Marvel.DAL.dll
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.DAL\bin\Debug\Marvel.DAL.pdb
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.DAL\bin\Debug\Marvel.models.dll
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.DAL\bin\Debug\Marvel.models.pdb
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.DAL\obj\Debug\Marvel.DAL.csprojAssemblyReference.cache
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.DAL\obj\Debug\Marvel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.DAL\obj\Debug\Marvel.DAL.csproj.CopyComplete
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.DAL\obj\Debug\Marvel.DAL.dll
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.DAL\obj\Debug\Marvel.DAL.pdb

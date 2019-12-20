@@ -1,0 +1,8 @@
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\bin\Debug\Marvel.models.dll
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\bin\Debug\Marvel.models.pdb
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\obj\Debug\Marvel.models.csproj.CoreCompileInputs.cache
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\obj\Debug\Marvel.models.csproj.CopyComplete
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\obj\Debug\Marvel.models.dll
+C:\Users\senem\source\repos\MarvelWebApi\Marvel.models\obj\Debug\Marvel.models.pdb
