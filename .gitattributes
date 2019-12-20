@@ -1,2 +1,1 @@
-# *.Javascript linguist-language=C#
-*.java linguist-detectable=true
+* linguist-language=C#
